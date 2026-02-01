@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Jan Seva",
+  "description": "A modern, accessible citizen grievance redressal portal connecting people with government services seamlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
